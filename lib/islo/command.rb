@@ -1,3 +1,5 @@
+require 'pathname'
+
 module Islo
   # Generic command execution
   class Command
